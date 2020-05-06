@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://cms-jamify.gotsby.org",
-    "contentApiKey": "e5e630bdbbf0a09dd0f7980c84"
+    "apiUrl": "https://ghost.gracelead.org",
+    "contentApiKey": "3031ae8dc4fdd7a0dea31aee66"
   },
   "production": {
-    "apiUrl": "https://cms-jamify.gotsby.org",
-    "contentApiKey": "e5e630bdbbf0a09dd0f7980c84"
+    "apiUrl": "https://ghost.gracelead.org",
+    "contentApiKey": "3031ae8dc4fdd7a0dea31aee66"
   }
 }
