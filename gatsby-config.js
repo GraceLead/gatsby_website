@@ -68,4 +68,5 @@ module.exports = {
             },
         },
     ],
+    pathPrefix: "/gatsby_website",
 }
