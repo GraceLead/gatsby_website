@@ -1,11 +1,11 @@
-- name: Publish Gatsby Site
-  uses: xmflsct/action-publish-gatsby@v1.0.0
-  with:
+- #name: Publish Gatsby Site
+  #uses: xmflsct/action-publish-gatsby@v1.0.0
+  #with:
     # The branch that GitHub Pages is being exposed to.
-    publishBranch: # optional, default is master
+  #  publishBranch: # optional, default is master
     # Personal Access Token in order to publish to GitHub Pages.
-    token: 
+  #  token: 
     # Your name to include in the commit.
-    name: # optional, default is Zhiyuan Zheng
+  #  name: David Ruess # optional, default is Zhiyuan Zheng
     # Your email to include in the commit.
-    email: # optional, default is me@xmflsct.com
+  #  email: david@gracelead.org # optional, default is me@xmflsct.com
