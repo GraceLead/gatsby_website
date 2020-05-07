@@ -31,7 +31,7 @@ try {
 module.exports = {
     plugins: [
         {
-            resolve: `gatsby-theme-try-ghost`,
+            resolve: `gatsby_website`,
             options: {
                 ghostConfig: ghostConfig,
                 siteConfig: siteConfig,
@@ -68,5 +68,8 @@ module.exports = {
             },
         },
     ],
-    pathPrefix: "/gatsby_website",
+    siteMetadata: {
+        title: `Grace Lead`,
+        pathPrefix: "/gatsby_website",
+      },
 }
